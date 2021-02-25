@@ -13,7 +13,7 @@ The USGS provides earthquake data in several different formats, updated every 5 
 •	The earthquake data and tectonic plate data displayed on the map when the page loads
 
 ## Deliverable 2: Add Major Earthquake Data to the map
-•	Add a third layer group variable for the major earthquake data.
+•	Add a third layer group variable for the major earthquake data./
 •	Add a number of base maps to choose from as well as separate out the two different data sets into overlays that can be turned (toggled) on and off independently.
 •	Add layer controls to the map.
 
