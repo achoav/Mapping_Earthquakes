@@ -26,4 +26,4 @@ The USGS provides earthquake data in several different formats, updated every 5 
 
 ## Deliverable 3: Add an Additional Map with Tectonic plates and Seismic activity
 
-•	Add an third Map with Tectonic plates and Seismic activity
+•	Add a third Map with Tectonic plates and Seismic activity
