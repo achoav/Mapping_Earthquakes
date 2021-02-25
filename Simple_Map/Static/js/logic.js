@@ -15,5 +15,23 @@ let streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v11/t
 	maxZoom: 18,
 	accessToken: API_KEY
 });
+
+// Loop through the cities array and create one marker for each city.
+cityData.forEach(function(city) {
+    console.log(city)
+    L.marker(city.location)
+    .bindPopup("<h2>" + city.city + ", " + city.state + "</h2> <hr> <h3>Population " + city.population + "</h3>")
+  .addTo(map);
+});
+
+// Get data from cities.js
+let cityData = cities;
+
+// Loop through the cities array and create one marker for each city.
+cities.forEach(function(city) {
+    console.log(city)
+    L.marker(city.location).addTo(map);
+});
+
 // We create the tile layer that will be the background of our map.
-streets.addTo(map)
+// cities.addTo(map)
