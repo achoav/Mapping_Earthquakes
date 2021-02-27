@@ -14,7 +14,7 @@ The USGS provides earthquake data in several different formats, updated every 5 
 
 # Import & Visualize the Data:
 
-![] (images/Tectonics_Earhtquakes.png)
+![]images/Tectonics_Earhtquakes.png
 
 # Objective 
 Build a new set of tools that will allow the USGS to visualize their earthquake data. The USGS collects a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations on issues facing our planet.
