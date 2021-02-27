@@ -31,7 +31,7 @@ The USGS provides earthquake data in several different formats, updated every 5 
 * The data markers should reflect the magnitude of the earthquake in their size and color. Earthquakes with higher magnitudes (>5) should appear larger and darker in color (red).  Magnitudes (>4 but less than <5) are colored in orange.  And other magnitudes that are smaller than 4, are colored in yellow.
 * The earthquake data and tectonic plate data displayed on the map when the page loads
 
-![Tactonic and Earthquakes] )images/Tectonics_Earthquakes.png
+![Tactonic and Earthquakes] (Images/Tectonics_Earthquakes.png)
 
 ## Deliverable 2: Add Major Earthquake Data to the map
 
