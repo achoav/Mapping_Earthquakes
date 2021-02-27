@@ -13,7 +13,7 @@ Get the Data Set for the past 7 days:
 The USGS provides earthquake data in several different formats, updated every 5 minutes. Visit the USGS GeoJSON Feed page and pick a data set to visualize. When a data set is clicked on, for example 'All Earthquakes from the Past 7 Days', will be given a JSON representation of that weekly data. Use the URL of this JSON to pull in the data for the visualization.
 
 # Import & Visualize the Data:
-![Map - Tectonic and Earthquake](images/Tectonics_Earhtquakes.png)
+![](images/Tectonics_Earhtquakes.png)
 
 # Objective 
 Build a new set of tools that will allow the USGS to visualize their earthquake data. The USGS collects a massive amount of data from all over the world each day, but they lack a meaningful way of displaying it. Their hope is that being able to visualize their data will allow them to better educate the public and other government organizations on issues facing our planet.
